@@ -276,7 +276,7 @@ a:hover{
     }
 
     .content .title, .content .name{
-        font-size: 70px;
+        font-size: 50px;
     }
 
     .content .des{
@@ -292,11 +292,13 @@ a:hover{
     }
 
     .list .item .content{
+        margin-top: 115px;
         top: 40%;
     }
 
     .content .title, .content .name{
-        font-size: 45px;
+
+        font-size: 25px;
     }
 
     .content .btn button{
